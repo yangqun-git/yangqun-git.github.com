@@ -12,7 +12,7 @@ order: 5
 
 `ekko` 是我一直在使用的英文 ID，因为很喜欢英雄联盟里时间刺客-艾克这个英雄的台词。
 
-目前还没什么其他可说的，如果想看我的代码可以去我的 [Github](https://github.com/biezhi){:target="_blank"}。
+目前还没什么其他可说的，如果想看我的代码可以去我的 [Github](https://github.com/yangqun-git){:target="_blank"}。
 
 ## 编程理念
 
