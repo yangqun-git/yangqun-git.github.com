@@ -10,10 +10,9 @@ order: 5
 ![{{ site.author.name }}]({{ site.author.photo | prepend: site.cdnurl }}){:.me}
 {% endif %}
 
-`biezhi` 是我一直在使用的英文 ID，因为之前购买了 `biezhi.me` 的域名就一直在使用。
-博客只有在想起来 && 有时间的时候可能会写一篇。
+`ekko` 是我一直在使用的英文 ID，因为很喜欢英雄联盟里时间刺客-艾克这个英雄的台词。
 
-目前还没什么其他可说的，如果想看我的代码可以去我的 [Github](https://github.com/biezhi){:target="_blank"}，想看我的视频教程可以去 [Youtube](https://www.youtube.com/channel/UCmlhPmTdqYhRWwWZWSIBwGw){:target="_blank"} 频道。
+目前还没什么其他可说的，如果想看我的代码可以去我的 [Github](https://github.com/biezhi){:target="_blank"}。
 
 ## 编程理念
 
@@ -21,7 +20,8 @@ order: 5
 
 ## 做过什么
 
-- 2018：翻译 [Docker Curriculum](https://docker-curriculum.biezhi.me/) 指南
+	Do nothing!
+<!-- - 2018：翻译 [Docker Curriculum](https://docker-curriculum.biezhi.me/) 指南
 - 2018：发布 [examples](https://examples.codesofun.com/){:target="_blank"} 常用代码分享博客
 - 2018：创建 20DaysOfCode 开发者训练计划
 - 2018：创建 「代码真香」Youtube 频道
@@ -37,7 +37,7 @@ order: 5
 - 2017：开源 [mrpc](https://github.com/kongzhongfinance/mrpc){:target="_blank"}：分布式服务治理框架
 - 2017：开源 [tale](https://github.com/otale/tale){:target="_blank"}：美观方便的博客系统
 - 2016：开源 [wechat-api](https://github.com/biezhi/wechat-api){:target="_blank"}：微信机器人 SDK
-- 2015：开源 [blade](https://github.com/lets-blade/blade){:target="_blank"}：高性能简洁优雅的 MVC 框架
+- 2015：开源 [blade](https://github.com/lets-blade/blade){:target="_blank"}：高性能简洁优雅的 MVC 框架 -->
 
 ## 版权说明
 
@@ -46,7 +46,8 @@ order: 5
 
 ## 其他
 
-我的博客使用 Jekyll 搭建，源码托管在 [Github](https://github.com/biezhi/blog){:target="_blank"}。如果你有什么自认为伟大的想法或者想对我说的请发送邮件至 `biezhi.me#gmail.com`，注意逻辑清晰，表明来意，否则不回复。
+<!-- 我的博客使用 Jekyll 搭建，源码托管在 [Github](https://github.com/biezhi/blog){:target="_blank"}。如果你有什么自认为伟大的想法或者想对我说的请发送邮件至 `biezhi.me#gmail.com`，注意逻辑清晰，表明来意，否则不回复。 -->
+爱你呦
 
 <!-- Add Disqus Comments -->
 {% if site.disqus %}
