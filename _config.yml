@@ -29,15 +29,15 @@ socials:
   - title: Github
     icon: github
     url: https://github.com/yangqun-git
-  - title: Twitter
-    icon: twitter
-    url: https://github.com/yangqun-git
-  - title: Youtube
-    icon: youtube
-    url: https://github.com/yangqun-git
-  - title: Telegram Group
-    icon: telegram
-    url: https://github.com/yangqun-git
+  # - title: Twitter
+  #   icon: twitter
+  #   url: https://github.com/yangqun-git
+  # - title: Youtube
+  #   icon: youtube
+  #   url: https://github.com/yangqun-git
+  # - title: Telegram Group
+  #   icon: telegram
+  #   url: https://github.com/yangqun-git
 
 # 友链
 links:
