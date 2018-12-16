@@ -1,4 +1,4 @@
-source 'https://gems.ruby-china.com'
+source 'http://gems.ruby-china.com'
 
 gem "jekyll"
 gem "jekyll-paginate"
