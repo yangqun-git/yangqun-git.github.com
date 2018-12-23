@@ -2,7 +2,7 @@
 layout: page
 title: 关于
 permalink: about.html
-image: /public/images/redflag.jpg
+image: /public/images/bluegirl.jpeg
 order: 5
 ---
 
