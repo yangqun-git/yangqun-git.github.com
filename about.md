@@ -10,35 +10,13 @@ order: 5
 ![{{ site.author.name }}]({{ site.author.photo | prepend: site.cdnurl }}){:.me}
 {% endif %}
 
-`ekko` 是我一直在使用的英文 ID，因为很喜欢英雄联盟里时间刺客-艾克这个英雄的台词。
+`ekko` 是我一直在使用的英文 ID，因为很喜欢英雄联盟中艾克这个英雄。
 
 目前还没什么其他可说的，如果想看我的代码可以去我的 [Github](https://github.com/yangqun-git){:target="_blank"}。
 
 ## 编程理念
 
 仰慕「优雅编码的艺术」，追崇实践 + 理论得真知。
-
-## 做过什么
-
-	Do nothing!
-	
-<!-- - 2018：翻译 [Docker Curriculum](https://docker-curriculum.biezhi.me/) 指南
-- 2018：发布 [examples](https://examples.codesofun.com/){:target="_blank"} 常用代码分享博客
-- 2018：创建 20DaysOfCode 开发者训练计划
-- 2018：创建 「代码真香」Youtube 频道
-- 2018：开源 [profit](https://github.com/biezhi/profit){:target="_blank"}：在线打赏系统
-- 2018：开源 [gitmoji](https://github.com/biezhi/gitmoji-plugin){:target="_blank"}：Git 提交表情插件
-- 2018：开源 [excel-plus](https://github.com/biezhi/excel-plus){:target="_blank"}：Excel 操作库
-- 2018：开源 [eve](https://github.com/biezhi/eve){:target="_blank"}：一个简单的命令行新闻客户端
-- 2018：开源 [anima](https://github.com/biezhi/anima){:target="_blank"}：小而美的数据库操作库
-- 2018：发布 [elves](https://github.com/biezhi/elves){:target="_blank"}：爬虫框架的设计和实现
-- 2018：发布 [learn-java8](https://github.com/biezhi/learn-java8){:target="_blank"} Java 8 视频课程
-- 2017：发布 [bye-2017](https://github.com/biezhi/bye-2017){:target="_blank"}：年终总结统计
-- 2017：开源 [geekbb](https://github.com/biezhi/geekbb){:target="_blank"}：极简程序员论坛
-- 2017：开源 [mrpc](https://github.com/kongzhongfinance/mrpc){:target="_blank"}：分布式服务治理框架
-- 2017：开源 [tale](https://github.com/otale/tale){:target="_blank"}：美观方便的博客系统
-- 2016：开源 [wechat-api](https://github.com/biezhi/wechat-api){:target="_blank"}：微信机器人 SDK
-- 2015：开源 [blade](https://github.com/lets-blade/blade){:target="_blank"}：高性能简洁优雅的 MVC 框架 -->
 
 ## 版权说明
 
@@ -47,8 +25,9 @@ order: 5
 
 ## 其他
 
-<!-- 我的博客使用 Jekyll 搭建，源码托管在 [Github](https://github.com/biezhi/blog){:target="_blank"}。如果你有什么自认为伟大的想法或者想对我说的请发送邮件至 `biezhi.me#gmail.com`，注意逻辑清晰，表明来意，否则不回复。 -->
-爱你呦
+之前的文章全删了，感觉写的不好，正好从新来过吧。
+
+爱你呦![miao](/public/images/2018/weisuo.jpg)
 
 <!-- Add Disqus Comments -->
 {% if site.disqus %}
