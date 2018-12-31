@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 单例模式
+title: 23种设计模式之单例模式
 image: /public/images/yunshan.jpg
 tags: ['学习笔记','设计模式']
 
