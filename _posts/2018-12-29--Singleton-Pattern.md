@@ -81,7 +81,7 @@ public class LazySingleton {
     }
 ```
 
-我们在方法声明上加一个`synchronized`关键字，使这个方法变成一个静态方法。我们将`synchronized`关键字放在静态方法上，实际上锁的是这个类的`.class`文件，如果不是静态方法，相当于锁的堆内存中生成的对象，	也就是说我们现在是锁了整个类。它和下面这个写法的意义是一样的：
+我们在方法声明上加一个`synchronized`关键字，使这个方法变成一个同步方法。我们将`synchronized`关键字放在静态方法上，实际上锁的是这个类的`.class`文件，如果不是静态方法，相当于锁的堆内存中生成的对象，	也就是说我们现在是锁了整个类。它和下面这个写法的意义是一样的：
 
 ```java
     public static LazySingleton getInstance(){
