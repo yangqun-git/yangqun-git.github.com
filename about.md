@@ -10,7 +10,6 @@ order: 5
 ![{{ site.author.name }}]({{ site.author.photo | prepend: site.cdnurl }}){:.me}
 {% endif %}
 
-`ekko` 是我一直在使用的英文 ID，因为很喜欢英雄联盟中艾克这个英雄。
 
 目前还没什么其他可说的，如果想看我的代码可以去我的 [Github](https://github.com/yangqun-git){:target="_blank"}。
 
@@ -27,7 +26,6 @@ order: 5
 
 之前的文章全删了，感觉写的不好，正好从新来过吧。
 
-爱你呦![miao](/public/images/2018/weisuo.jpg)
 
 <!-- Add Disqus Comments -->
 {% if site.disqus %}
